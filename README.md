@@ -1,3 +1,3 @@
 # Trailhead-Project
 
-This code in dev going to add into main
+This code in dev is going to be added to dev
